@@ -93,7 +93,7 @@ header nav{
 
 
 #showcase .showcase-info{
-    background:url('img/img3.jpg');
+    background:url('img/about.jpeg');
     background-repeat: no-repeat;
     background-position:center;
    
@@ -148,7 +148,8 @@ header nav{
 }
 
 .card-content-info,i{
-    padding:5px;
+    padding-left:5px;
+    padding-right:5px;
 }
 
 

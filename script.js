@@ -3,7 +3,7 @@
 
 //cacheInTheDOM
 
-let imgArr = [{image:`${'img/img3.jpg'}`,color:`${'#439D83'}`},{image:`${'img/img1.jpg'}`,color:`${'#2C3E50'}`},{image:`${'img/img2.jpg'}`,color:`${'#649D43'}`},{image:`${'img/img4.jpg'}`,color:`${'#553963'}`}];
+let imgArr = [{image:`${'img/about.jpeg'}`,color:`${'#439D83'}`},{image:`${'img/img1.jpg'}`,color:`${'#2C3E50'}`},{image:`${'img/img2.jpg'}`,color:`${'#649D43'}`},{image:`${'img/img4.jpg'}`,color:`${'#553963'}`}];
 let imgPtr = 0;
 
 
